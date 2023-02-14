@@ -35,6 +35,8 @@ section { display: flex; }
 .text-secondary{ font-size: 30px; color: #faa541}
 .text-primary{ font-size: 16px; color: #364147}
 
+/* Header */
+
 .header-nav { border: 1px; color: #a0a0a0;}
 .brand {
     width: 170px;
@@ -87,4 +89,6 @@ section { display: flex; }
     border-radius: 100px;
     max-width: 100%;
 }
+
+
 /***************************************/
